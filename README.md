@@ -1,5 +1,6 @@
 # WebServer
 Networks final project
+(I worked with a partner on this)
 
 
 A web server that supports GET and HEAD requests, accepts command line flags representing the TCP ports to bind to, supports encrypted 
