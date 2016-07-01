@@ -16,7 +16,4 @@ To compile and run:
   - "$ make"
   - "$ java Server --serverPort=12345 --sslServerPort=12346" with desired port numbers
   
-The project was completed in 2 parts. Click the links to see the assignment sheets (if still active).
-
-  - [Part 1](https://docs.google.com/document/d/1vEP9uByFaK9qPIlHJrq59ED2aNnAI9LubX6kKQRQ9Ew/edit)
-  - [Part 2](https://docs.google.com/document/d/1kcd4XLYgBfvKsHn36wmTkXINDNxswMfSb7OR8FZ8tYA/edit)
+The project was completed in 2 parts. If the links are still active the assignment sheets can be found here:[Part 1](https://docs.google.com/document/d/1vEP9uByFaK9qPIlHJrq59ED2aNnAI9LubX6kKQRQ9Ew/edit) [Part 2](https://docs.google.com/document/d/1kcd4XLYgBfvKsHn36wmTkXINDNxswMfSb7OR8FZ8tYA/edit)
